@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">2Pay Android App SDK</string>
+    <string name="twopay_package">it.twopay.android.app</string>
+</resources>
