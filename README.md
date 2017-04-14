@@ -1,1 +1,1 @@
-# mobile_sdk
+# 2Pay mobile sdk
